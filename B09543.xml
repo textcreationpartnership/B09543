@@ -1,0 +1,565 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great sin of formality in God's worship: or, The formal worshipper proved a lyar and deceiver. Being the subject of a sermon preacht on the weekly lecture in Boston. / By Joshua Moodey ...</title>
+            <author>Moodey, Joshua, 1633?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09543</idno>
+            <idno type="OCLC"> 80923189</idno>
+            <idno type="STC">Wing M2522</idno>
+            <idno type="STC">ESTC W24941</idno>
+            <idno type="EEBO-CITATION">80923189</idno>
+            <idno type="OCLC">ocm 80923189</idno>
+            <idno type="VID">191928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191928)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great sin of formality in God's worship: or, The formal worshipper proved a lyar and deceiver. Being the subject of a sermon preacht on the weekly lecture in Boston. / By Joshua Moodey ...</title>
+                  <author>Moodey, Joshua, 1633?-1697.</author>
+               </titleStmt>
+               <extent>[2], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Harris, and John Allen, at the London-Coffee-House. And are to be sold by Richard Wilkins.,</publisher>
+                  <pubPlace>Boston, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Hosea XI, 12 --  Sermons.</term>
+               <term>Worship --  Early works to 1800.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191928:1" rendition="simple:additions"/>
+            <pb facs="tcp:191928:1"/>
+            <pb facs="tcp:191928:2" rendition="simple:additions"/>
+            <pb facs="tcp:191928:2"/>
+            <pb facs="tcp:191928:3"/>
+            <pb facs="tcp:191928:3"/>
+            <p>The Great SIN of FORMALITY IN GOD'S WORSHIP<g ref="char:punc">▪</g> OR, The Formal Worſhipper proved a LYAR and DECEIVER.</p>
+            <p>Being the Subject of a SERMON Preacht on the Weekly LECTURE in <hi>BOSTON.</hi>
+            </p>
+            <p>
+               <hi>By Joſhua Moodey,</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>Mat. 15. 8.</bibl> This People draweth nigh unto me with their Mouth, and honoureth me with their Lips, but their Heart is far from me.</q>
+            <q>
+               <bibl>Jer. 7. 8.</bibl> Behold you truſt in lying words that cannot profit.</q>
+            <q>
+               <bibl>Mal. 1. 14.</bibl> Curſed be the Deceiver which hath in his Flock a Male, and voweth and ſacrificeth to the Lord a corrupt thing.</q>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oston,</hi> Printed by <hi>Benjamin Harris,</hi> and <hi>John Allen,</hi> at the <hi>London-Coffee-Houſe<g ref="char:punc">▪</g>
+               </hi> And are to be Sold by <hi>Richard Wilkins.</hi>
+            </p>
+            <p>1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:191928:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:191928:4"/>
+            <head>The great Sin of FORMALITY IN GODS VVORSHIP</head>
+            <epigraph>
+               <bibl>Hoſ. 11. 12.</bibl>
+               <q>
+                  <hi>Ephraim</hi> compaſſeth me about with Lies, and the Houſe of <hi>Iſrael</hi> with Deceit.</q>
+            </epigraph>
+            <p>THe Subject which I am at preſent to handle is the ſin of Formality in Gods Worſhip, which is the ſin con<g ref="char:EOLhyphen"/>demned in the Text, as none of the leaſt of thoſe many and very great controverſies, that the Lord hath had all along with his profeſſing people, and at this day has par<g ref="char:EOLhyphen"/>ticularly with our ſelves.</p>
+            <p>Take a brief explication of the Terms.</p>
+            <p>
+               <hi>Ephraim</hi> was the Second Son of <hi>Joſeph</hi> born in <hi>Egypt,</hi> and that name given him in Re<g ref="char:EOLhyphen"/>membrance of Gods making him fruitful in the land of his <hi>affliction, Gen</hi> 41. 52. unto him <hi>Jacob,</hi> in his Bleſſing, gave the Pre<g ref="char:EOLhyphen"/>ference to his Elder Brother, <hi>Gen.</hi> 48. 20. The name is ſometimes uſed for the whole
+<pb n="2" facs="tcp:191928:5"/>
+Tribe that linearly deſcended from him, and here for the Ten Tribes, of whom he was the Head or Chief, and is the ſame wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>[The Houſe of Iſrael.] Iſrael</hi> ſignifies a pre<g ref="char:EOLhyphen"/>vaile<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with God<g ref="char:punc">▪</g> and was the new Name which God gave to <hi>Jacob</hi> in memory of his Victorions combate at <hi>Peniel, Gen.</hi> 32. 28. And all his poſterity, the whole viſible Church, bare that Name of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſrael,</hi> until after the ſeparation of the Ten Tribes from the two, when the Name of <hi>Iſrael</hi> was frequently given to the <hi>Ten,</hi> and the Name of <hi>Juda</hi> unto the <hi>two,</hi> ſo that <hi>Ephra<g ref="char:EOLhyphen"/>im</hi> and <hi>Iſrael</hi> in the Text are <hi>homonymous</hi> Terms, or intend the ſame people.</p>
+            <p>[<hi>Compaſſeth me</hi>] Compaſſing is ſome<g ref="char:EOLhyphen"/>times uſed for Worſhip, and in that ſenſe it is to be taken here. Thus <hi>Pſal<g ref="char:punc">▪</g>
+               </hi> 26. 6. <hi>Compaſſing Gods Altar,</hi> intends Worſhip<g ref="char:EOLhyphen"/>ping of God, offering up Sacrifice on<g ref="char:punc">▪</g> his Altar, which was one principal part of Wor<g ref="char:EOLhyphen"/>ſhip. In the ſame ſenſe is the phraſe uſed <hi>Pſal.</hi> 7. 7.</p>
+            <p>Chriſt hath promiſed that where his peo<g ref="char:EOLhyphen"/>ple <hi>meet together in his Name,</hi> (as all that are regularly Aſſembled for any part of<g ref="char:punc">▪</g> in<g ref="char:EOLhyphen"/>ſtituted Worſhip do) <hi>he will be in the midſt of them, Mat.</hi> 18. 20. and if he be in the midſt of us, we are then compaſſing him about.</p>
+            <p>The <hi>Hebrew</hi> word in the Text is alſo ſometimes uſed for Beleaguering or Beſieg<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:191928:5"/>
+a Town or City in an hoſtile way, and truly God accounts ſuch hypocritical wor<g ref="char:EOLhyphen"/>ſhip little better than waging War againſt himſelf, &amp; ſuch <hi>Compaſſers</hi> he looks at as his. Beſiegers, and they will ſooner or later be dealt with as ſuch.</p>
+            <p>Some Expoſitors attribute it to the Pro<g ref="char:EOLhyphen"/>phet, as if he were beſet with their Lies and ſcandalous Reports, to the prejudice<g ref="char:punc">▪</g> of his Miniſtry, which is one of Satans ſtrata<g ref="char:EOLhyphen"/>gems to prevent the Succeſs of the Goſpel, by reproaching them that diſpenſe it<g ref="char:punc">▪</g> Thus they ſerved <hi>Jeremiah,</hi> chap. 20. 10. &amp; 18. 18. and thus they lay ſnares for him that reproves in the Gate, <hi>Iſa.</hi> 29. 21. When Gods Meſſengers are reproving ſin, they may look for ſuch Treats, (though I would beg of this Auditory, that they would be more kind<g ref="char:punc">▪</g> to us, and to, themſelves too, while we are according to our Commiſſion, <hi>Iſa.</hi> 58. 1. ſhewing God's People their ſin) It's a good note of one upon the place<g ref="char:punc">▪</g> 
+               <hi>A Faithful Miniſter is the Center in which all the lines of Lies and Slan<g ref="char:EOLhyphen"/>ders meet.</hi> An ill caſe, if they be ſilent God is diſpleaſed, if they ſpeak men are angry.</p>
+            <p>But I rather take it in the fore-going ſenſe<g ref="char:punc">▪</g> as referring to God in his Worſhip.</p>
+            <p>[<hi>With Lies and Deceit</hi>] Theſe Terms alſo mean the ſame thing, unleſs you will ſay the latter is Exegetical, and ſhews what was their aim and deſign in lying, <hi>viz.</hi> to deceive
+<pb n="4" facs="tcp:191928:6"/>
+God, they pretended to great devotion in keeping up the external form of Worſhip, without being ſincere and real therein, and that was their lying, whereby they thought (tho' it was wretched Atheiſm ſo to think) to put God off, to deceive and put a cheat upon him, as if the Omniſcient God could be impoſed upon.</p>
+            <p>But this will be more fully opened in Explaining the Doctrine.</p>
+            <p>
+               <label>DOCTRINE.</label>
+Formality in God's Worſhip is accounted by him as Lying and Deceiving, and ſo is a very provoking ſin. Formal Worſhippers are lookt at by God as lyars and deceivers, and thereby expoſed to his ſoreſt anger.</p>
+            <p>There are three ſorts of Falſe and De<g ref="char:EOLhyphen"/>ceitful Worſhip, which God is Diſpleaſed with.</p>
+            <list>
+               <item>1. When men Worſhip any other Perſon or thing than the one onely, living and true God, when they have and ſerve any other God before or beſides the True God; and this is groſs Idolatry and a breach of the firſt Commandment.</item>
+               <item>2. When they Worſhip the true God but with Falſe Worſhip, ſuch as never <hi>came</hi> into his mind, but is the meer product of their own Invention, which yet they ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="5" facs="tcp:191928:6"/>
+in ſtead of, or mix or joyn with his Inſtitutions. This is a Breach of the Se<g ref="char:EOLhyphen"/>cond Commandment, and very offenſive to a Jealous God.</item>
+               <item>3. When the object of the Worſhip is right, and the Worſhip it ſelf is for the matter, or as to the externals thereof true, but the miſcarriage of it lies in the man<g ref="char:EOLhyphen"/>ner of doing it, in that it is done with a Diſſembling Heart, or in a cold formal manner. And this ſin is forbidden in the third Commandment, which directs about the right manner of performing true Wor<g ref="char:EOLhyphen"/>ſhip (both natural and Inſtituted) to the true God.</item>
+            </list>
+            <p>The two latter may be intended here, and chiefly the third, or a mixture of them both (for the Heart cannot be right where the Worſhip is wrong) yea in a ſenſe all three of them; For they had the Calves at <hi>Dan</hi> and <hi>Bethel,</hi> at beſt a falſe Medium, nor could they any more excuſe themſelves from the miſſing it in the object of worſhip too, than their Fathers, who tho' they proclaimed a Feaſt to <hi>Jehovah</hi> before the Golden Calf, yet might be ſaid to have choſen new Gods (as <hi>Judg.</hi> 5. 8.) and to Sacrifice to Devils and not to God, <hi>Deut.</hi> 32. 17 And be ſure all this while their Heart was not right with God.</p>
+            <p>But I ſhall conſine my Diſcourſe unto ſuch as are Profeſſors of the true God,
+<pb n="6" facs="tcp:191928:7"/>
+who have alſo the right-way of Inſtituted Worſhip, but through the falſeneſs of their hearts do but lye to him in all they per<g ref="char:EOLhyphen"/>form; a ſin commonly practiſed in our Days by Profeſſors of Religion.</p>
+            <p>Q. <hi>What is this Formal Worſhip, which is called Lying and Deceit?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's worth our inquiring into, becauſe called by very hard names, very much com<g ref="char:EOLhyphen"/>plained of in Scripture, and there is abun<g ref="char:EOLhyphen"/>dance of it among Gods viſible people, yea too much among thoſe that may have the Root of the matter in them, and alſo be<g ref="char:EOLhyphen"/>cauſe it's very provoking to God, and miſ<g ref="char:EOLhyphen"/>chievous to them that uſe it.</p>
+            <p>Now I call that Formal Worſhip, which is oppoſed to that which is in reality. <hi>Paul</hi> oppoſes a <hi>Form of Godlineſs to the power of it, 2 Tim.</hi> 3. 5. Such Pretenders make Pe<g ref="char:EOLhyphen"/>rilous Times. He intends ſuch Perſons as uſed an appearance without any reality, a ſhew without any ſubſtance. They made a profeſſion of Godlineſs, and uſed much Pre<g ref="char:EOLhyphen"/>tenſive Devotion in Worſhip, but there was nothing in it, ſave an appearance and ſhadow only, <hi>Vox preterea nihil,</hi> an empty Form, no powerful ſincerity in their heart, nor good fruit in their life. And this Vi<g ref="char:EOLhyphen"/>zard men put on to deceive, that they may walk <hi>incoginto</hi> in the World.</p>
+            <p>Formal Worſhip is Hypocritical Wor<g ref="char:EOLhyphen"/>ſhip, like a painted Tomb without, but
+<pb n="7" facs="tcp:191928:7"/>
+Corruption &amp; Rottenneſs within, Fire with<g ref="char:EOLhyphen"/>out and Froſt within, A flame in the mouth but Ice in the Heart: A perfect piece of Pageantry, a Play, where he that is in ſhew a <hi>King,</hi> is in Reallity a <hi>Beg<g ref="char:EOLhyphen"/>gar.</hi>
+            </p>
+            <p>Such <hi>lying</hi> Worſhip is thus Deſcribed by Chriſt Mat. 15: 8, 9. <hi>Drawing near to God with the Lip,</hi> when the Heart is far from him, near in look and geſtures, but far in heart and ſpirit, this is the ſpirit of an Hypocrite. When out of any low, baſe, inferiour end, men are drawn or driven to thoſe duties which indeed they have no Heart to, this the Lord ac<g ref="char:EOLhyphen"/>counts lying in his Worſhip. And the more external Preparations, the more Coſt and Grandeur there is in it, the bigger the lye.</p>
+            <p>Chriſt reduceth all our Obedience, whe<g ref="char:EOLhyphen"/>ther in point of Worſhip or otherwiſe, unto that one word <hi>Love,</hi> now if not <hi>lov<g ref="char:EOLhyphen"/>ing</hi> Worſhip, its <hi>lying</hi> Worſhip; there is an Idol in the Heart, which has their Love, while God has their Lips only, they pretend Devotion to God, but the Idol in the Heart has the Heart all the while.</p>
+            <p>When the Heart and Body do not go together in the Service of God, the Body ſhews much love, but the Heart is otherwiſe imployed. Ezek 33: 31.</p>
+            <p>This <hi>lying</hi> worſhip is oppoſed to wor<g ref="char:EOLhyphen"/>ſhipping
+<pb n="8" facs="tcp:191928:8"/>
+God in <hi>Spirit and Truth,</hi> John 4. 24. <hi>Paul</hi> ſerved God with his ſpirit, Rom. 1. 9. But their Spirits, Soul and Hearts are not concerned or engaged, and ſo there is no <hi>Truth</hi> in their ſervices, be<g ref="char:EOLhyphen"/>cauſe no <hi>Spirit</hi> in them, they are not ſpiritual and ſo cannot be true, for it is <hi>Truth in the inward parts that God re<g ref="char:EOLhyphen"/>quires, Pſal</hi> 51, 6. <hi>Ephraim</hi> was called <hi>a ſilly, Dove without an Heart. Hoſ.</hi> 7, 11. And that is a ſilly, ſorry Sacrifice that has no heart in it, nor can it be acceptable to God, <hi>Who chiefly minds the Heart, Jer.</hi> 30. 21. 22.</p>
+            <p>And as the heart is to go with it, ſo the Converſation is to be conſonant there<g ref="char:EOLhyphen"/>to. Want of either makes the worſhip a <hi>lye. As a man thinks in his heart ſo is he, Prov.</hi> 23. 7. But that is known to God on<g ref="char:EOLhyphen"/>ly and himſelf. But when the Converſa<g ref="char:EOLhyphen"/>tion contradicts the Devotion his deceit<g ref="char:EOLhyphen"/>fulneſs is <hi>Obvious to men alſo Tit.</hi> 1. 16. and here Chriſt gives this Direction for the <hi>knowing of men by their fruits, Mat.</hi> 7. 16. And if the Heart be falſe the Converſa<g ref="char:EOLhyphen"/>tion will not be right, for the Heart go<g ref="char:EOLhyphen"/>verns the Converſation. If the Heart go not with the tongue, the <hi>Walk</hi> will to the Prudent obſerver (at leaſt often) give the Tongue the lye, but if heart and tongue joyns, the Converſation among men will evidence <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſincerity toward God.</p>
+            <p>
+               <pb n="9" facs="tcp:191928:8"/>Now ſuch Worſhip is called <hi>Lying deceiving</hi>
+            </p>
+            <p>1. Lying, which is either <hi>Verbal</hi> or <hi>Practical.</hi>
+            </p>
+            <p>Verbal lying when he ſpeaks not the Truth in his Heart, <hi>Pſal.</hi> 15, 2. Affirm<g ref="char:EOLhyphen"/>ing that to be Truth which he knows to be untruth, or doth not know to be Truth, or denying that to be Truth, which he knows, at leaſt thinks to be Truth, or knows not but that it may be Truth.</p>
+            <p>Practical Lying is when a man pre<g ref="char:EOLhyphen"/>tends and profeſſes what he neither intends nor performs, when his works deny what his words Profeſs, this is practical lying, he <hi>lies</hi> in his way, though he ſpeaks right in his words, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</hi> 1. 6. He aſſumes the Name of Religion, but he practically de<g ref="char:EOLhyphen"/>nies the thing, which conſiſts not in words, but in Power, in Love, in Righteouſneſs, Holineſs Self-denial, Mortification, <hi>&amp;c.</hi> to which he is a ſtranger: And this is the <hi>Lying</hi> which the Lord, blames them for here, and threatens elſe where, <hi>Iſa.</hi> 1. 10. 16. <hi>Iſa.</hi> 58. 1 - 7. with <hi>Pſal.</hi> 50. 7. 22.</p>
+            <p>2. It's called <hi>Deceit</hi> alſo, <hi>They compaſs me with Deceit:</hi> Thus Mal. 1. 14. <hi>He that has a Male in his Flock, and offers a corrupt thing to the Lord,</hi> is called a Deceiver, and ſuch an oblation is a piece of meer deceit.</p>
+            <p>A Deceiver is a ſly, ſubtil, under hand
+<pb n="10" facs="tcp:191928:9"/>
+Dealer, one that plays <hi>Leger-de-main,</hi> that cogs and cheats, and deſigns to put a <hi>ſham</hi> upon another, and this is the aim and ſpi<g ref="char:EOLhyphen"/>rit of a Formatiſt in Gods Worſhip; he contrives to put a cheat upon God, <hi>indeed to mock him,</hi> Gal. 6<g ref="char:punc">▪</g> 7. And ſuch a Wor<g ref="char:EOLhyphen"/>ſhipper is called a Deceiver.</p>
+            <p>1. Becauſe he defrauds the glorious God of his juſt due, and of the true Homage and Service which belongs to him from his Creatures. It's true, God cannot proper<g ref="char:EOLhyphen"/>ly be deceived, but he offers at it, does what he may towards it, and like a fooliſh, ignorant Atheiſt, imagines he may do it<g ref="char:punc">▪</g> thinks God will not ſee when he turns him off with a bad Sacrifice for a good one<g ref="char:punc">▪</g> a <hi>corrupt and lame one for a ſound one,</hi> Job 22. 12, 14. Thus he robs God of his <hi>Right,</hi> ſends away the Heart a<g ref="char:EOLhyphen"/>bout other buſineſs, and complements God with a little Bodily Exerciſe, or Tongue-Devotion. The worm of his Luſt doth eat the Kernel, and then with ſome ſeem<g ref="char:EOLhyphen"/>ing ſolemnity he makes the Heart-ſearch<g ref="char:EOLhyphen"/>ing and Heart-demanding God a <hi>Preſent</hi> of the empty ſhell. A very ſhameful and af<g ref="char:EOLhyphen"/>fronting <hi>Cheat.</hi>
+            </p>
+            <p>2. It may be called a piece of Deceit, becauſe it does really deceive others: men that can only judge by the outward appear<g ref="char:EOLhyphen"/>ance, are utterly deceived by him. <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> was deceived by <hi>Eliahs</hi> look, and <hi>Phi<g ref="char:EOLhyphen"/>lip</hi>
+               <pb n="11" facs="tcp:191928:9"/>
+by <hi>Simon Magus</hi>'s Profeſſion. <hi>Come ſee my zeal for the Lord</hi> was enough to have Blinded a <hi>Jonadab,</hi> ſave that the load Trumpeting his own commendation was too much like an Hypocrite. Oh, thinks a good and charitable Chriſtian, this is cer<g ref="char:EOLhyphen"/>tainly an Excellent Man; ſee his Parts, Zeal, Affection, <hi>&amp;c.</hi> and his aim being to ſeem Religious before men, he puts him<g ref="char:EOLhyphen"/>ſelf in his fineſt dreſs when he appears up<g ref="char:EOLhyphen"/>on the Stage in open view, turns the beſt ſide outward when he has a great many Spectators; while a ſincere Soul whoſe buſineſs is to approve himſelf to God, is moſt engaged and enlarged in his Cloſet, where none but he that <hi>ſees in Secret</hi> can obſerve him.</p>
+            <p>3. But finally he is called a <hi>Deceiver,</hi> be<g ref="char:EOLhyphen"/>cauſe he doth moſt miſerably and fatally <hi>deceive</hi> himſelf, <hi>Jam.</hi> 1. 22, 26. He puts a Paralogiſm or Fallacy upon himſelf, argues falſly, and concludes fallaciouſly concerning himſelf. And it's a proper puniſhment for him that thinks to deceive in his perfor<g ref="char:EOLhyphen"/>mance, to find himſelf deceived in his expe<g ref="char:EOLhyphen"/>cted acceptance. As <hi>Jacob</hi> feared leſt his Father <hi>might,</hi> this <hi>Deceiver</hi> ſhall find that the All-ſeeing God moſt certainly <hi>will</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind out the <hi>Deceit,</hi> and reward him with a <hi>Curſe</hi> inſtead of a <hi>Bleſſing,</hi> Gen. 27. 12. Such perſons may ſport themſelves with their own <hi>Deceivings</hi> for a time, 2. <hi>Pet.</hi> 2.
+<pb n="12" facs="tcp:191928:10"/>
+13. but the <hi>Deceiver</hi> ſhall be deceived at <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt. And he is the worſt <hi>Deceiver</hi> that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceives himſelf.</p>
+            <p>For a further diſcovery of this ſin of <hi>Lying</hi> and <hi>Deceit</hi> in Gods Worſhip, let us take notice of ſome of the <hi>Deceits</hi> uſed in Prayer, Hearing, Receiving the Sacrament, a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sanctifying the Sabbath; and our par<g ref="char:EOLhyphen"/>ticularizing here, will offer much matter of C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nviction as we go along.</p>
+            <p>1. Of Compaſſing God about with <hi>Lies</hi> and <hi>Deceit</hi> in Prayer.</p>
+            <p>Prayer is no ſmall part of Inſtituted Worſhip, and to be made uſe of with eve<g ref="char:EOLhyphen"/>ry part of Worſhip. And doubtleſs Gods own Children have need to pray with <hi>Da<g ref="char:EOLhyphen"/>vid, That God would remove from them the way of</hi> Lying even when they are Praying, <hi>Pſal.</hi> 119. 29.</p>
+            <p>In ſolitary prayer when they enter into their Cloſets and ſhut their doors, they are more happy than the moſt and beſt of Chriſtians always are if they can ſhut out all vain and impertinent thoughts from coming in. All ſuch (and much more wicked, blaſphemous and unbelieving) thoughts are <hi>faults,</hi> and if allowed are <hi>lies;</hi> though they are not wickedneſſes, they are infirmities, end if not watcht againſt and mourned over, will be charged on us as <hi>Lies</hi> and <hi>Deceit.</hi>
+            </p>
+            <p>In our ordinary ſocial prayers, how hard
+<pb n="13" facs="tcp:191928:10"/>
+to keep our heart engaged in every word of Petition, Confeſſion or Thankſgiving uttered by him that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our mouth unto God! vagaries are a ſort of <hi>Lies,</hi> and wandering or diverting is <hi>De<g ref="char:EOLhyphen"/>ceiving.</hi>
+            </p>
+            <p>In extraordinary Prayers on Faſting and Humiliation Days there is a great deal of <hi>deceit</hi> uſed. Eſpecially when men faſt for <hi>ſtrife and debate, Iſa. 58. 4. rend their Garments but not their hearts,</hi> wat<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their their eyes, but do not <hi>afflict their Souls,</hi> o<g ref="char:EOLhyphen"/>pen their mouths, but keep their hearts ſhut, their heads hang down for a day like a <hi>Bullruſh,</hi> (though many arrive not to that, and ſo their <hi>lying</hi> is the more open and obvious, and their ſin goes before-hand unto Judgment.) But they have no Sacri<g ref="char:EOLhyphen"/>nce of a broken heart and contrite ſpirit to preſent the Lord withal. What is this but <hi>diſſembling</hi> and <hi>lying,</hi> while they pre<g ref="char:EOLhyphen"/>tend performance of the Duties of ſuch a Solemnity, and yet neglect the principal thing required? If there be not (on ſuch days eſpecially) in their Addreſſes to God, hearty confeſſions of ſin, deep Humiliation under it, and Soul affliction for it, with ſerious reſolution to turn from it; all that is done without this, is nothing but <hi>lying</hi> and <hi>deceiving,</hi> and the greater the expence in the external part of the duty, the great<g ref="char:EOLhyphen"/>er the <hi>deceit</hi> if not rightly performed.</p>
+            <p>
+               <pb n="14" facs="tcp:191928:11"/>To inſtance in the ſeveral parts of pray<g ref="char:EOLhyphen"/>er.</p>
+            <p>1. There is Confeſſion, and that either of Gods Glory, or our ſin and vileneſs.</p>
+            <p>If we make Confeſſion of Gods Glory and Majeſty, and yet do not really and practically believe what we ſay; We call him Father, but do not honour him; Ma<g ref="char:EOLhyphen"/>ſter, but do not fear him; Lord, but do not obey him; or Shepherd; but do not hear <hi>his voice and follow him;</hi> what do we leſs than <hi>mock</hi> and <hi>lye</hi> to him?</p>
+            <p>We confeſs his Omniſcience, but carry toward him in our hearts, as if he were far out of our ſight, that though he plant<g ref="char:EOLhyphen"/>ed the ear, and formed the eye, could nei<g ref="char:EOLhyphen"/>ther hear nor ſee, <hi>but was like the deaf and blind Idol, Pſal.</hi> 115. come with our hands full of ſin, as if we thought he could not diſcern whether we did lift up <hi>holy hands</hi> or no. 1 <hi>Tim.</hi> 2. 8.</p>
+            <p>We acknowledge his <hi>Power</hi> in words, but doubt of his Ability to ſave us, and engage not our hearts to <hi>take hold of his Strength and be at peace with him.</hi>
+            </p>
+            <p>We confeſs his <hi>Wiſdom,</hi> and yet will inſtruct and limit the <hi>Holy One</hi> of <hi>Iſrael,</hi> and be our own carvers in point of the things we would have granted us.</p>
+            <p>We call him our <hi>Soveraign,</hi> but muſt have our own wills, and while we ſay, <hi>Thy Will be done,</hi> are very impatient if ours
+<pb n="15" facs="tcp:191928:11"/>
+be not complied with.</p>
+            <p>We verbally own his <hi>Goodneſs,</hi> but we <hi>lye</hi> in our hearts if we do not cloſe with him as Goodneſs it ſelf, and make him the object of our higheſt love accordingly.</p>
+            <p>We own his <hi>Mercy,</hi> but do not <hi>co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ide</hi> and <hi>hope</hi> in it: Confeſs him to be <hi>Juſt,</hi> and yet paſs not <hi>the time of our ſojourning<g ref="char:punc">▪</g> before him in fear.</hi> We ſay it's a <hi>fearful thing to fall into his hands,</hi> and yet by ſuch kind of trifling in his Worſhip do moſt directly deliver our ſelves up into the Hands of his Jealouſie and Juſtice.</p>
+            <p>We profeſs our love to him, but while our heart is not with him, we <hi>mock</hi> him and <hi>lye</hi> to him, as ſhe told <hi>Sampſon, Judg.</hi> 16. 15.</p>
+            <p>Thus while we confeſs all Gods Glorious Attributes in prayer, but do not make him the object of our Faith, Love, Fear, De<g ref="char:EOLhyphen"/>light, <hi>&amp;c.</hi> we do but <hi>lye</hi> to him.</p>
+            <p>Thus alſo in Confeſſion of our own Sin and Vileneſs.</p>
+            <p>We often confeſs ſin, but do not believe that we are ſuch Sinners indeed as we ſay we are, nor are ſenſible what an evil and bitter thing ſin is. We call our ſelves Sinners in the general, but when we come to particulars, are ready to extenuate and excuſe if not to deny it.</p>
+            <p>Again, if we confeſs the ſin that we have no mind to part with, and acknow<g ref="char:EOLhyphen"/>ledge
+<pb n="16" facs="tcp:191928:12"/>
+thoſe Iniquities that we keep in our boſoms with complacence and delight, what is this but deceitful dealing with God? We ſeem very pathetically in words to confeſs our own wretchedneſs and un<g ref="char:EOLhyphen"/>worthineſs, but God and our own Conſci<g ref="char:EOLhyphen"/>ences know that we do but <hi>lye</hi> unto him, <hi>while not humbled to this day, Ier.</hi> 44. 10. and are better opinionated of our ſelves than wee pretend to in our Confeſſions.</p>
+            <p>2. <hi>A ſecond part of Prayer is Petition.</hi>
+            </p>
+            <p>And <hi>there</hi> is alſo a great deal of <hi>lying</hi> and <hi>deceit.</hi> As for Inſtance,</p>
+            <p>When we ask outward things to ſpend them upon our Luſts &amp; not that we may ſincerely uſe them for the Glory of God; this <hi>is asking amiſs,</hi> Jam. 4. 3. This is <hi>deceitful Praying,</hi> to ask his mercies that we may fight againſt him with his own weapons; what is it but <hi>Couzenage</hi> and <hi>Deceit?</hi> So when we ask Gifts only to make a fine ſhew among men, and get a Reputation for Re<g ref="char:EOLhyphen"/>ligion; which is finally to ſacrifice Gods Gifts to our ambition and vain-glory.</p>
+            <p>Or when we ask ſpiritual Bleſſings which we are not really concerned to receive.</p>
+            <p>
+               <hi>Auſtin has ſuch a paſſage in his Confeſſions, that he often asked that of God in Prayer, which he was in his heart afraid leſt he ſhould give.</hi> Many ſeem to beg hard for Grace, when God knows, they do not deſire it; ask Knowledge, when they hate the Light,
+<pb n="17" facs="tcp:191928:12"/>
+and cannot endure to come to it; ask to have ſin pardoned, when they cannot part with it, purged, while they hold faſt their <hi>deceit,</hi> and refuſe to let it go, this is down<g ref="char:EOLhyphen"/>right <hi>lying before God,</hi> Jer. 8. 5. Thus we pray for the Sanctifying of his Name, Coming of his Kingdom, doing of his Will, but in heart we are for neither of them.</p>
+            <p>Of ſuch kind of addreſſing God in a Time of Affliction, the Lord pronounces that it is but <hi>flattering</hi> and <hi>lying,</hi> and that becauſe the <hi>Heart is not right with God,</hi> Pſa. 78. 34.—37.</p>
+            <p>And ſo of our Thankſgiving, which is alſo a part of <hi>Prayer,</hi> when we ſay in words, <hi>Lord, we bleſs and praiſe thy Name,</hi> but our hearts are not fixed to that work, nor do we take due care to order our whole Converſation ſo as may be moſt for his Service and Glory. Verbal praiſing of God, with practical diſhonouring of him is plain <hi>lying.</hi>
+            </p>
+            <p>So when we promiſe to him what we never intend to perform, at leaſt never du<g ref="char:EOLhyphen"/>ly care to perform; they that make ſo<g ref="char:EOLhyphen"/>lemn vows in the days of their diſtreſs, but forget to pay them in the days of their enlargement, are but <hi>lyars</hi> and <hi>deceivers.</hi>
+            </p>
+            <p>2. <hi>Of the</hi> Lying <hi>and</hi> Deceit <hi>in Hearing the Word.</hi>
+            </p>
+            <p>When men hear, but bare <hi>hearing</hi> is all they do. Hear with the ear, but never ſet
+<pb n="18" facs="tcp:191928:13"/>
+the heart to all thoſe things that are teſti<g ref="char:EOLhyphen"/>fied, which <hi>Moſes</hi> adviſes them unto <hi>Deut.</hi> 32. 46.</p>
+            <p>
+               <hi>Hear,</hi> but not as the <hi>Word of God,</hi> Acts 10. 33. <hi>Hear,</hi> but do not take care, and heed how they hear; <hi>Hear,</hi> but the heart <hi>goes after their Covetouſneſs,</hi> Ezek. 33. 31. <hi>Hear,</hi> but gaze and wander the while, and it may be fall faſt aſleep too. (And by the way, ſleeping at Meeting is viſible and palpable <hi>lying,</hi> eſpecially if allowed, and not to the utmoſt reſiſted and ſtriven a<g ref="char:EOLhyphen"/>gainſt: <hi>Eutychus</hi> was taken in the man<g ref="char:EOLhyphen"/>ner, <hi>Acts</hi> 20. 9. and made a ſolemn Mo<g ref="char:EOLhyphen"/>nitor to waken all sleepers.)</p>
+            <p>
+               <hi>Hear,</hi> but come with an Idol in their heart, hear and go forth immediately, and all they hear is loſt, the Word choakt, and ſo their labour proves in vain.</p>
+            <p>To hear without an unfeigned Reſolu<g ref="char:EOLhyphen"/>tion to no as well as hear, together with a ſincere endeavour to perform what they reſolve, is <hi>lying</hi> and <hi>deceitful</hi> Hearing.</p>
+            <p>3. <hi>At a Sacr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment men lye to God.</hi>
+            </p>
+            <p>When they do not diſcern the Lords Body, do not make it their buſineſs to ſee and converſe with a Crucified Chriſt that is there held forth.</p>
+            <p>When they come to a Feaſt, but come not with an appetite, to a Wedding Feaſt, but not with a Wedding Garment; come to receive a Gift, but either bring or
+<pb n="19" facs="tcp:191928:13"/>
+put forth no hand of Faith to take it.</p>
+            <p>When at the beholding of a Crucified Chriſt, there is no mourning over him, nor for their ſins that Crucified him, no activi<g ref="char:EOLhyphen"/>ty of Faith, though the Lord Jeſus be evi<g ref="char:EOLhyphen"/>dently ſet forth as Crucified for the draw<g ref="char:EOLhyphen"/>ing forth of their Faith on him; no infla<g ref="char:EOLhyphen"/>ming of their Love, by the dying Love of a dear Saviour, which they are then called to a fixed meditation on; the failure here ſpeaks the neglect of what is the principal end of a Sacrament, and therefore is no leſs than <hi>lying</hi> and <hi>deceit</hi> in Gods account, however the external Deportment may appear fair and commendable before men, that can only judge by the ſeeing of the eye, and hearing of the ear.</p>
+            <p>4. So <hi>we may ſay of the Sabbath.</hi>
+            </p>
+            <p>Which is a ſpecial ſeaſon for the atten<g ref="char:EOLhyphen"/>ding on Inſtituted Worſhip. If it be not kept according to the Law of the Sabbath, if we do not Sanctifie the Sabbath, that: God may Sanctifie us on and <hi>by the Sabbath,</hi> Ezek. 20. 12. If the Sabbath be not remem<g ref="char:EOLhyphen"/>bred and prepared for, and ſanctified as an Holy Reſt <hi>with</hi> and <hi>unto</hi> God, we do but mock God, and deceive our ſelves. If our Sabbath<g ref="char:punc">▪</g> keeping be not a <hi>Delight,</hi> it is a chea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; If we only ceaſe from ſervile labour, but not from ſpeaking our own words, and following our carnal and ſinful pleaſures; or if we account only that part of the day
+<pb n="20" facs="tcp:191928:14"/>
+to be Sabbath which we ſpend in the Pub<g ref="char:EOLhyphen"/>lick Worſhip, and the reſidue of the time, both before, after, and in the intervals of Worſhip, be ſpent as common time; the whole of our Sabbath-<hi>keeping</hi> is Sabbath<g ref="char:EOLhyphen"/>
+               <hi>breaking,</hi> and our pretences fallacious and deceitful.</p>
+            <p>Theſe are ſome hints which the ſerious Hearer may eaſily enlarge in his Meditati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>I ſhould have added here ſomething,</p>
+            <list>
+               <item>1. Of the greatneſs of this ſin.</item>
+               <item>2. Of the ſoreneſs of its puniſhment.</item>
+            </list>
+            <p>But that I chuſe to bring them in either as Motives to incline us to a true and right performance of the Duties of Worſhip, Or as Diſſwaſives from this ſin of <hi>Lying</hi> therein.</p>
+            <p>
+               <hi>By way of Application.</hi>
+            </p>
+            <p>Firſt, I ſhall draw ſome Inferences from the Doctrine.</p>
+            <p>1. If there be ſuch a thing as <hi>Lying</hi> and <hi>Deceitful Dealing</hi> in Gods Worſhip.—Then we have the leſs cauſe to wonder that there is ſo much <hi>Lying</hi> and <hi>Deceit</hi> a<g ref="char:EOLhyphen"/>mong men in their converſe with each o<g ref="char:EOLhyphen"/>ther. It's a very lying Age that we live in. Men lye one to another, in falſifying their words, breaking their promiſes, yea, and
+<pb n="21" facs="tcp:191928:14"/>
+more ſolemn Obligations. Men lye one of another by ſcandalous Reports which they raiſe and broach, very much to the detri<g ref="char:EOLhyphen"/>ment of their Neighbours, and reproach of Religion. Yea, there are that make it no ſmall part of their buſineſs to invent &amp; frame <hi>Lies,</hi> and ſeatter them abroad to a<g ref="char:EOLhyphen"/>muſe the World withal, and to draw forth mens ſentiments, <hi>of</hi> which they make their Remarks, and <hi>of</hi> which they make matter of Accuſation. There is alſo much De<g ref="char:EOLhyphen"/>ceiving and Over-reaching one another in Dealing, the weakeſt (though the hone<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eſt) goes to the wall; I ſay there is much of this among men. Think it not ſtrange, while there is ſo much diſſembling with God himſelf, you may look to meet with the like among men. And it ariſes from the ſame principle, the <hi>Atheiſm</hi> that is in all Mankind, that which makes them dare to <hi>lie</hi> to God, will not let them ſtick at <hi>lying</hi> to men. Look for nothing but fal<g ref="char:EOLhyphen"/>ſhood and miſchief from him that makes no Conſcience of eſſaying to put his cheats upon the Great God. He that will adven<g ref="char:EOLhyphen"/>ture to <hi>lye</hi> to God directly, will not ſtick more remotely to <hi>lye</hi> to him, as all <hi>lying</hi> to men is, all ſin being finally againſt God.</p>
+            <p>2. See what little cauſe we have to boaſt of any merit in any of our Services; where there is ſo much deceit, there can be no Merit.</p>
+            <p>
+               <pb n="22" facs="tcp:191928:15"/>
+               <hi>Outward</hi> Performances if they be only <hi>ſuch,</hi> are meer <hi>lies,</hi> and therefore rather provocations unto God, than obligations upon him. Hence when they truſted to the Temple of the Lord, and to their Ser<g ref="char:EOLhyphen"/>vices and Sacrifices there, the Lord tells them <hi>they truſted in lying words,</hi> Jer. 7. 4<g ref="char:punc">▪</g> 8</p>
+            <p>But ſuppoſe they be ſincere performan<g ref="char:EOLhyphen"/>ces, worſhip done in ſpirit and truth, there will be no room for truſting in or boaſting of them; for the ſincerity of the heart is Grace, &amp; that Grace tho inherent, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et is in<g ref="char:EOLhyphen"/>fuſed Grace, &amp; the exerciſe of that ſincerity in Worſhip is exciting Grace, &amp; <hi>all Grace</hi> takes away all occaſion of boaſting.</p>
+            <p>There are ſome actings of pride in the beſt, to their ſhame and confuſion of face, when they reflect thereupon: but uſually, or moſtly they are falſe in their Worſhip that truſt to it, and of them it may be ſaid, <hi>they truſt to a Refuge of Lies, and un<g ref="char:EOLhyphen"/>der falſhood do they hide themſelves,</hi> Iſa 28. 15. Becauſe all their Worſhip is ſo. Were our Services never ſo good, yet if truſted in when we have done them, we make a <hi>lye,</hi> an Idol of them, and ſhall find them to be a <hi>lye</hi> to us; much more when there is ſo much <hi>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceit</hi> attending the beſt of our doings, and ſo much lameneſs, leanneſs<g ref="char:punc">▪</g> and deformity in the chiefeſt of our Sacri<g ref="char:EOLhyphen"/>fices.</p>
+            <p>3. Hence ſee alſo the reaſon why God
+<pb n="23" facs="tcp:191928:15"/>
+is angry oft times at the Prayers of his Peo<g ref="char:EOLhyphen"/>ple, <hi>viz.</hi> becauſe he ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <hi>lying,</hi> of which he finds ſo much in them<g ref="char:punc">▪</g> 
+               <hi>Pſal.</hi> 80. 4<g ref="char:punc">▪</g> And hence there is ſo little ſucceſs in pray<g ref="char:EOLhyphen"/>ing, ſo few Anſwers of their Prayers. Thoſe that are <hi>lying Services</hi> to God, will be <hi>lying Services</hi> to us alſo, nothing will come of them but Provocation and Puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>We know that God <hi>heareth not Sinners<g ref="char:punc">▪</g>
+               </hi> Joh. 9. 31. <hi>Lyars</hi> and <hi>Deceiters</hi> as they <hi>ſhall not dwell with him,</hi> Pſal. 101. 7. ſo nei<g ref="char:EOLhyphen"/>ther ſhall their Services come before him with Acceptance.</p>
+            <p>Let none of us that are conſcious to our ſelves of a great deal of that Guilt in our Services, quarrel with God, and ſay, <hi>Where<g ref="char:EOLhyphen"/>fore have we faſted and thou ſeeſt not?</hi> Iſa. 58. 3. That Context will anſwer them and us, and this Text will ſtop our mouths. It's ſaid, <hi>Hab. 3. 7. The labour of the Olive fails,</hi> it is in the Hebrew <hi>lies, i. e.</hi> their labour about the Olive in planting, pru<g ref="char:EOLhyphen"/>ning, dreſſing, from which they expect ſome fruit, produces nothing, nothing comes of it; ſo will the labour of ſuch a Worſhipper prove, his Prayer was a <hi>lye</hi> to God, and it is very juſt it ſhould be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound a <hi>lye</hi> to him.</p>
+            <p>USE II. <hi>Of Conviction.</hi>
+            </p>
+            <p>Let this Doctrine alſo be improved unto
+<pb n="24" facs="tcp:191928:16"/>
+Conviction, and upon due, ſerious and ſtrict Examination, Conviction will follow. Is there not too too much of this <hi>lying</hi> Worſhip to be found among us?</p>
+            <p>Here is a great deal of worſhip, and many Worſhippers. And thoſe Worſhippers that ſeek God daily, and approach into his preſence frequently, are either Rege<g ref="char:EOLhyphen"/>nerate or Unregenerate, (for we may not believe, that all outward Worſhippers are inwardly ſincere) Now as to the <hi>
+                  <g ref="char:V">Ʋ</g>nrege<g ref="char:EOLhyphen"/>nerate,</hi> eſpecially if they are <hi>ſo</hi> knowingly, and continue <hi>ſo</hi> contentedly, all their wor<g ref="char:EOLhyphen"/>ſhip is a meer <hi>lye,</hi> all their devotion is a meer <hi>cheat,</hi> and ſo an abomination unto God; they do nothing elſe but beleagure and beſet him with <hi>lies,</hi> are always fighting God with their <hi>lies,</hi> and many, perhaps the Body of <hi>Iſrael</hi> whom the Lord thus treats in the Text, were ſuch.</p>
+            <p>As to the <hi>Regenerate,</hi> they are not whol<g ref="char:EOLhyphen"/>ly freed from this way of <hi>lying,</hi> there are ſome Remains of <hi>Guile</hi> and <hi>Hypocriſie,</hi> which like dead flies are dropping into, and corrupting the Oyntment, or Incenſe of their beſt Performances.</p>
+            <p>And for our <hi>Conviction,</hi> let us look back on the particular Inſtances given in the ſe<g ref="char:EOLhyphen"/>veral parts of Worſhip; beſides, what fur<g ref="char:EOLhyphen"/>ther Reflections every diligent, curious, ſelf-examiner may make upon himſelf. Think with our ſelves what a Trade of
+<pb n="25" facs="tcp:191928:16"/>
+               <hi>lying</hi> we have driven with God, how many of thoſe Abominations we have wrought in his ſight, how many <hi>plain lyes</hi> we have told him to his face; and let us be vile in <hi>our own</hi> eyes, in that we have ſo often done that which is ſo vile in <hi>his.</hi> The Lord expects very deep Humiliation for our ſo great and frequent Diſſimulation in his Worſhip; whatever Infirmities God may bear withal in his Children, he will not tolerate <hi>lying</hi> in them; dealing falſely in his Worſhip we muſt very particularly re<g ref="char:EOLhyphen"/>pent of, and reform.</p>
+            <p>USE III.</p>
+            <p>Let this ſerve for a word of ſolemn De<g ref="char:EOLhyphen"/>hortation from this great and frequent ſin that is ſo commonly found in the midſt of us. Oh all ye VVorſhippers of God be perſwaded to put away your <hi>lying,</hi> and let your <hi>deceit</hi> no longer lodg with you<g ref="char:punc">▪</g> Do not come to the Houſe of God to tell him a pack of <hi>lies</hi> from day to day, <hi>Trouble him with no more deceitful and vain oblations,</hi> for ſhame leave off <hi>lying.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> charges them, <hi>Eph</hi> 4. 25. with <hi>Col. 3. 9. to put away lying one to another.</hi> But this Doctrine preſents us with a more ſolemn and neceſſary charge, (and that which if taken notice of, and complied with, would curge the other) <hi>Lye not to the God of Truth.</hi>
+            </p>
+            <p>
+               <pb n="26" facs="tcp:191928:17"/>
+               <hi>Eli</hi> was miſtaken when he ſaid to <hi>Hannae<g ref="char:punc">▪</g>
+               </hi> 1. Sam. 1. 14. <hi>How long wilt thou be drunk? put away thy Wine.</hi> But alaſs, that there ſhould be ſuch juſt cauſe to ſay to many VVorſhippers in the Houſe of God, How<g ref="char:punc">▪</g> long will you <hi>tell <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in Gods VVorſhip, put away your <hi>deceit</hi> from you.</p>
+            <p>ſo inforce this Diſſwaſive,</p>
+            <p>Let us conſider,</p>
+            <list>
+               <item>1. The <hi>Greatneſs of the ſin.</hi>
+               </item>
+               <item>2. The <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oreneſs of the puniſhment.</hi>
+               </item>
+               <item>3. The <hi>good of performing true Worſhip in<g ref="char:punc">▪</g> a right and ſincere manner.</hi>
+               </item>
+            </list>
+            <p>1. <hi>The greatneſs of the ſin.</hi>
+            </p>
+            <p>1. It is <hi>Lying.</hi> And <hi>I</hi> need ſay no more. It's a ſin though ſo generally practiſed, yet every where ſpoken againſt. It is a ſin which mans corrupt nature is dreadfully addicted to; <hi>they go aſtray from the Womb, ſpeaking lies,</hi> Pſal. 58. 3. And yet it is a ſin condemned by the light of nature, con<g ref="char:EOLhyphen"/>demned by the verdict of every mans Con<g ref="char:EOLhyphen"/>ſcience that is not blinded or bribed, aſleep or ſeared. Men hate to be impoſed upon with <hi>lies,</hi> and will be more ready to for<g ref="char:EOLhyphen"/>give a very great fault than a little one, when aggravated with <hi>lying.</hi> It's reckon<g ref="char:EOLhyphen"/>ed among the ſeven <hi>Abominations that the Lord hates,</hi> Prov. 6<g ref="char:punc">▪</g> 16.—<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. yea and ac<g ref="char:EOLhyphen"/>counted big enough to make two of the ſeven (if not three of t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em) though in a different ſenſe.</p>
+            <p>
+               <pb n="27" facs="tcp:191928:17"/>2. But more than ſo, it's <hi>lying</hi> to God, and that ſin coſt <hi>Ananias</hi> and <hi>Sapphird</hi> their lives, <hi>Act.</hi> 5<g ref="char:punc">▪</g> 4, <hi>&amp;c.</hi> And it's no ſmall wonder of Patience and Long-ſuffer<g ref="char:EOLhyphen"/>ing that the Lord makes no more ſuch Ex<g ref="char:EOLhyphen"/>amples among the <hi>great</hi> Troops of <hi>lying Worſhippers</hi> that compaſs him every day, eſpecially conſidering what a jealous God he is in point of Worſhip. To have a Company of Hypocrites come before God from time to time, only to fill his ears with <hi>lies,</hi> muſt needs be highly provoking, and it is very ſtrange that the Angel of the Lord is not ſent forth to make them all dead Corpſes; Spiritual Judgments are doubtleſs ſecretly inflicted upon them<g ref="char:punc">▪</g> which are the more dreadful becauſe the leſs obſervable.</p>
+            <p>3. It's rank <hi>Atheiſm,</hi> nor could men per<g ref="char:EOLhyphen"/>ſiſt in ſuch a courſe if they did realize the Being of God, or had not in their own imaginations framed to themſelves a God like themſelves. According to our ſenti<g ref="char:EOLhyphen"/>ments of God in our Hearts, ſo are our Carriages toward him in his Worſhip. <hi>Deceitful Worſhiping</hi> of him ſpeaks us very much <hi>deceived</hi> in our Conceptions about him,</p>
+            <p>4. It i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> extream inſolence, daring bold<g ref="char:EOLhyphen"/>neſs and preſumption thus to impoſe upon God, to fight againſt him with our <hi>Lies,</hi> to cover his Face and ask who ſmote him.</p>
+            <p>
+               <pb n="28" facs="tcp:191928:18"/>5. It is folly in the very Exaltation of it, ſuch formal Services are Fools ſervices. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> calls raſh, ſudden, haſty, unprepared Sacrifices, the <hi>Sacrifices of Fools,</hi> Eccl. 5. 1. I am ſure, <hi>lying</hi> ones are ſuch. It's folly for any thus to go about to impoſe on the Omniſcient God, the height of folly once to dream of <hi>deceiving</hi> him, and worſe than madneſs it ſelf to do ſo by him, if they did not think they could deceive him.</p>
+            <p>6. It diſpoſes to a vain, unprofitable, A<g ref="char:EOLhyphen"/>theiſtical Converſation in our whole De<g ref="char:EOLhyphen"/>portment. As we are in our Worſhip, ſo we are in all our Walk. He that is Form<g ref="char:EOLhyphen"/>al and Atheiſtical there, will be ſo elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>2. <hi>The ſoreneſs of the puniſhment.</hi>
+            </p>
+            <p>And you may well imagine that God will in Juſtice provide a ſtrange puniſhment for ſuch workers of Iniquity; were it on<g ref="char:EOLhyphen"/>ly <hi>that one Text,</hi> it were very dreadful Mala. 1. 14. <hi>Curſed be the Deceiver<g ref="char:punc">▪</g>
+               </hi> If do<g ref="char:EOLhyphen"/>ing the work of the Lord deceitfully <hi>does,</hi> then much more the doing <hi>of the worſhip of the Lord decitfully will bring a Curſe</hi> Jer. 48. 10. Particularly,</p>
+            <p>1. All ſuch <hi>lying</hi> worſhippers will loſe all that they have wrought 2. Joh. 8. all our <hi>deceitful Hearing, Praying, Sabbath<g ref="char:EOLhyphen"/>keeping<g ref="char:punc">▪</g>
+               </hi> &amp;c. will be utterly loſt, as to any real profit that ſhall ever come to us by
+<pb n="29" facs="tcp:191928:18"/>
+them. Oh the many coſtly laborious ſervi<g ref="char:EOLhyphen"/>ces that many Ignorant zealots have loſt! the painful performances of the Papiſts that are <hi>Lies</hi> are all loſt, the fair out-ſide ſhews of the Hypocrite are all loſt. Thoſe that are leaſt, or nothing in the Inſide are moſt in the out-ſide, and they all whoſe <hi>Services</hi> are a <hi>lye</hi> (not having the Heart in them) uſe to <hi>lye</hi> moſt ſplendidly of any; but they ſhall get nothing by their <hi>lying,</hi> nothing from God, nothing of his Compa<g ref="char:EOLhyphen"/>ny or Bleſſing: a little Reputation from men they may get, but what does that ſig<g ref="char:EOLhyphen"/>nify? They do but <hi>worſhip him in vain, Mat.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5<g ref="char:punc">▪</g> 9. and therefore God bids ſuch <hi>deceitful</hi> Offerers to bring <hi>no more ſuch vain oblation, Iſa.</hi> 1. 13. They were utterly in vain as to the great end of them, Commu<g ref="char:EOLhyphen"/>nion with God by them. There were a company of Profeſſing Believers, <hi>Joh.</hi> 2. 23, 25 unto whom Chriſt could not commit himſelf, they ſeemed to <hi>truſt</hi> him, but he would not <hi>betruſt</hi> himſelf with them, be<g ref="char:EOLhyphen"/>cauſe he <hi>knew</hi> their hearts, he <hi>knew</hi> they were <hi>Lyars</hi> and <hi>Deceivers</hi> in their hearts, and their outward profeſſion without in<g ref="char:EOLhyphen"/>ward ſincerity, could obtain nothing with Chriſt. <hi>Lying</hi> ſpoils all converſation among men, and hinders converſe with Chriſt, <hi>Pro.</hi> 19. 22. <hi>The poor man is better than the lyar.</hi> He that ſerves God with his Heart, though his poverty allows him to offer no more
+<pb n="30" facs="tcp:191928:19"/>
+than two mites, ſhall be accepted of God, while the more liberal Contributions of <hi>heartleſs</hi> and therefore <hi>deceitful</hi> men ſhall be rejected. The want of the Heart makes it a <hi>lye,</hi> and every <hi>lye</hi> is <hi>loſt</hi> to the <hi>Maker.</hi>
+            </p>
+            <p>2. Nay more than ſo, ſuch worſhip is not only loſt to them, but very provoking to God; they cannot anger a jealous God more than by ſuch <hi>Deceitful Services,</hi> his Anger ſmokes againſt <hi>lying Prayers,</hi> and the more of <hi>ſuch</hi> prayers, the more Anger.</p>
+            <p>Hence in the firſt Chapter following on the Text it's ſaid, <hi>They increaſed Lies and Deſolation;</hi> what <hi>Lies</hi> did they increaſe? ſure thoſe <hi>lies</hi> in worſhip, for which they were blamed in my Text; they continued in their formal worſhip multiplied their Sacrifices, and did the while but multiply <hi>lies;</hi> their <hi>new Sacrifices</hi> were but <hi>Compaſſing God about with new Lies;</hi> and what did they further increaſe thereby? why, they increaſ<g ref="char:EOLhyphen"/>ed <hi>Deſolation.</hi> Increaſe of ſuch <hi>Services,</hi> was increaſe of <hi>Lies,</hi> increaſe of <hi>Lies</hi> was increaſe of <hi>Provocation</hi> unto God, and con<g ref="char:EOLhyphen"/>ſequently of <hi>Deſolation</hi> unto them. It's hard to ſay, whether people do more pro<g ref="char:EOLhyphen"/>voke God by their ſins, or by their Prayers and Confeſſions, performed with ſo much <hi>Guile</hi> and <hi>Hypocriſie,</hi> eſpecially when by thoſe Duties they think to expiate their ſins. While they are <hi>compaſſing God about with</hi> Lies, <hi>he is compaſſing them about with</hi>
+               <pb n="31" facs="tcp:191928:19"/>
+Threatnings, which like a ſtorm of Hail ſhall ſweep away their <hi>Refuge of Lies.</hi>
+            </p>
+            <p>
+               <hi>Outward Judgments</hi> are often ſent by God upon a Profeſſing People, as a Teſtimony from Heaven againſt ſuch <hi>Falſhood</hi> and <hi>Diſ<g ref="char:EOLhyphen"/>ſimulation.</hi> Is not this one main cauſe of Gods Severity towards us at this day, <hi>viz<g ref="char:punc">▪</g>
+               </hi> our prevaricating with him in his Wor<g ref="char:EOLhyphen"/>ſhip? either the total neglect of it in ma<g ref="char:EOLhyphen"/>ny, the deceitful performances in ſome, or the unanſwerable walking in all, has had a deep ſhare in procuring theſe Calamities under which we are now labouring. <hi>Does not the Lord render his Rebukes in flames of Fire, for our coldneſs, or falſe Fire in his Worſhip?</hi> The ſudden ſtroke on <hi>Nadab</hi> and <hi>Ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hu</hi> was for their offering up of <hi>ſtrange Fire,</hi> and <hi>Lies</hi> is ſtrange Fire. The Arrow ſhot out of ſuch a <hi>deceitful Bow</hi> flies back to the damage of him that ſhoots it, <hi>Hoſ:</hi> 7. 16. Thus <hi>Paul</hi> tells us, that for the a<g ref="char:EOLhyphen"/>buſing of that Ordinance <hi>ſickneſs and death were ſent among them, 1 Cor.</hi> 11. 30. And no way is an Ordinance more abuſed than by this way of <hi>lying.</hi>
+            </p>
+            <p>
+               <hi>Spiritual Judgments,</hi> though more ſecret, and not ſo much taken notice of, are yet more dreadful, and no leſs certain. As e<g ref="char:EOLhyphen"/>vil men and ſeducers in point of Doctrine, ſo evil men and deceivers in point of Wor<g ref="char:EOLhyphen"/>ſhip, <hi>wax worſe and worſe,</hi> 2 Tim. 3. 13. deceiving and being deceived, they deal
+<pb n="32" facs="tcp:191928:20"/>
+               <hi>Deceitfully</hi> with God, do deceive others, (as has been already noted) and do moſt lamentably deceive themſelves into a falſe peace, till at length they find themſelves irrecoverably loſt. Their worſhipp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng im<g ref="char:EOLhyphen"/>holdens them to ſinning. They ſin, and then bring their Peace-offering, and ſo pay the <hi>old</hi> ſcore, and then begin upon a <hi>new, Prov.</hi> 7. 14. As if by their Duties they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad made amends for their paſt ſins, and obtained a Diſpenſation for the commit<g ref="char:EOLhyphen"/>ting of more. Thus the Prophet brings them in <hi>Jer.</hi> 7. 9, 10. As <hi>Stealing,</hi> and <hi>com<g ref="char:EOLhyphen"/>mitting Adultery,</hi> &amp;c. and then by <hi>Stand<g ref="char:EOLhyphen"/>ing,</hi> i. e. <hi>Worſhipping</hi> or <hi>Sacrificing</hi>) in Gods Houſe, think themſelves delivered to do all thoſe Abominations, <hi>i<g ref="char:punc">▪</g> e.</hi> delivered from the wickedneſs already done, and li<g ref="char:EOLhyphen"/>cenſed to hold on the ſame Trade ſtill. Thus as ſome <hi>turn the Grace of God into Laſciviouſneſs,</hi> Jude 4 ſo theſe turn the Worſhip of God into <hi>Laſciviouſneſs,</hi> and what greater <hi>Spiritual Judgment</hi> than to be given up of God to this? It is rendered there as a mark of men of old ordained <hi>unto Condemnation.</hi> Nothing more fatal, than by<g ref="char:punc">▪</g> vain <hi>Services,</hi> to to be left to vain <hi>Confidences,</hi> till unexpected Ruine at laſt overtake them. And that is the laſt thing here to be conſidered; <hi>viz.</hi>
+            </p>
+            <p>3. The final deſtruction of ſuch <hi>Deceit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Worſhip<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs</hi> whoſe Plagues will be moſt
+<pb n="33" facs="tcp:191928:20"/>
+wonderful. <hi>Hypocrites</hi> have the foreſt pu<g ref="char:EOLhyphen"/>niſhment allotted them. Every piece of <hi>Deceitful Worſhip</hi> will be an Article in the Indictment. They make themſelves Two<g ref="char:EOLhyphen"/>fold more the Children of Damnation than the poor Heathen that never performed a<g ref="char:EOLhyphen"/>ny duty of Worſhip to God in their lives. While ſome <hi>Drink</hi> and <hi>Swear</hi> and <hi>Curſe</hi> and <hi>Damn</hi> themſelves to Hell, others <hi>pray</hi> and <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear</hi> themſelves thither, and into a deeper and hotter Hell too then others arrive at. For men to-deſtroy themſelves with a great deal of pains, labour, coſt, ſplendor and grandeur is the worſt kind of Deſtruct<g ref="char:EOLhyphen"/>ion.</p>
+            <p>Your <hi>Lying, Deceitful Services</hi> and Per<g ref="char:EOLhyphen"/>formances are both the pretences that you Compaſs God with, and the ſparks that you Compaſs and comfort your ſelves with, but the Reward you will receive at the hands of God will be <hi>to lye down in ſorrow,</hi> Iſa. 50. <hi>ult:</hi> Such Worſhippers of God are ne<g ref="char:EOLhyphen"/>vertheleſs counted forgotters of God, and their Doom is, <hi>To be Torn in Pieces without any to deliver them. Pſal.</hi> 50<g ref="char:punc">▪</g> 22.</p>
+            <p>
+               <hi>The Benefit of True and Sincere Worſhipping of God.</hi>
+            </p>
+            <p>This is a large Theam, I ſhall but glance at a few hints<g ref="char:punc">▪</g> What is ſaid of keep<g ref="char:EOLhyphen"/>ing Gods Commandments in General<g ref="char:punc">▪</g> 
+               <hi>Great is the Reward</hi> Pſa. 9. 11. is eminently true of the ſecond Commandment, which gives<g ref="char:punc">▪</g>
+               <pb n="34" facs="tcp:191928:21"/>
+direction about <hi>Inſtituted Worſhip,</hi> ſee <hi>Exod.</hi> 20. 6. And if you referr it to the Third Commandment, where the Lord threatens the Breaker of it, <hi>Not to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old him guil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſs,</hi> it is a <hi>Meioſis,</hi> and ſoreſt wrath is inten<g ref="char:EOLhyphen"/>ded therein, and on the other-hand all man<g ref="char:EOLhyphen"/>ner of bleſſings are deſigned for the keep<g ref="char:EOLhyphen"/>er of that Command. If the <hi>Deceiver</hi> in Wor<g ref="char:EOLhyphen"/>ſhip be Curſed Mala. 1, 11. Then the ſin<g ref="char:EOLhyphen"/>cere Worſhiper is bleſſed. Bleſſed with all ſpiritual bleſſings, God accepts his Services, remembers his Offerings, will give him pardon, peace, joy, the ſtrength of his Right Hand <hi>&amp;c.</hi> ſee Pſal. 20. 1—6. <hi>He ſhall ſee the Lords goings in his Sanctuary.</hi> And ſhall be able to atteſt to <hi>Davids</hi> Experience, <hi>(Pſal. 84. 10<g ref="char:punc">▪</g>) One day in Gods Houſe is worth a Thouſand.</hi>
+            </p>
+            <p>Bleſſed with all outward bleſſings al<g ref="char:EOLhyphen"/>ſo. Seeking the <hi>Kingdom of God firſt,</hi> (of which no ſmall part lies in a right perfor<g ref="char:EOLhyphen"/>ming the worſhip of the Kingdom) has a promiſe of the Addition of <hi>all other things, M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 6. 33. God de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a profeſſing peo<g ref="char:EOLhyphen"/>ple as they deal with him in his Worſhip. If we Compaſs him with hearty ſincere ſer<g ref="char:EOLhyphen"/>vice, he will Compaſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with <hi>favour as with a Shield</hi> Pſal. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 12, Mercy ſhall Compaſs us, no good thing ſhall be wa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to us. While ſuch kind of formal worſhippers of whom we have been ſpeaking, ſay as they feel, <hi>that it is in vain to ſerve God,</hi> we ſhall
+<pb n="35" facs="tcp:191928:21"/>
+ſpeak as we find, <hi>That it is good for us to draw near unto God,</hi> Pſal. 23. 28.</p>
+            <p>
+               <hi>Directions for the Cure of this Malady.</hi>
+            </p>
+            <p>1. Be ſure we fix upon the <hi>right</hi> (and there is but one <hi>right) Object</hi> of Worſhip. <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve, Mat.</hi> 4. 10. The great God is the ſole Object of Worſhip. Let us not make our <hi>Bellies</hi> our God, <hi>Gold</hi> our Hope, the <hi>World</hi> our portion<g ref="char:punc">▪</g> nor our own <hi>Righteouſneſs, Wiſdom,</hi> or <hi>Strength</hi> our Idol; nor <hi>our ſelves</hi> our Saviours, <hi>Sacrifice not to our own Net, nor burn Incenſe to our own Drag.</hi> Hab. 1. 16.</p>
+            <p>2. Be well acquainted with the Perſon whom we Worſhip, and that will oblige us what we may to ſtudy a proportion be<g ref="char:EOLhyphen"/>tween our Worſhip, and the Object of our Worſhip.</p>
+            <p>The <hi>Knowledge</hi> of God will teach us <hi>that</hi> he is to be Worſhipped, and alſo <hi>how</hi> he is to be Worſhipped, will make us fear to neglect it, and aſſiſt us in the due perfor<g ref="char:EOLhyphen"/>mance of it.</p>
+            <p>To cure the <hi>Deceiver</hi> that had a <hi>Male</hi> in his flock, but offered a <hi>corrupt</hi> thing, the Lord gives him to underſtand, and wills him to conſider that he was a <hi>Great King,</hi> and had a <hi>Dreadful Name,</hi> even the <hi>Lord of Hoſts,</hi> Mal. 1. 14.</p>
+            <p>
+               <pb n="36" facs="tcp:191928:22"/>His being a <hi>Spirit</hi> will tell us that he is to be <hi>Worſhipped in Spirit and Truth,</hi> not after a <hi>carnal</hi> and <hi>lying</hi> manner.</p>
+            <p>Conſider him as the firſt Being, &amp; chief<g ref="char:EOLhyphen"/>eſt Good, &amp; thence learn, that the firſt &amp; beſt of our <hi>Hearts, Abilities, Time, Spirits, Souls,</hi> are his due, and that <hi>lame, blind, heartleſs, lifeleſs Services</hi> are very much un<g ref="char:EOLhyphen"/>becoming him.</p>
+            <p>His <hi>Soveraignty</hi> as it commands Devoti<g ref="char:EOLhyphen"/>on, ſo it will guard us from ſnuffing at his Service, or ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubbering over his Worſhip.</p>
+            <p>His <hi>Omnipreſence</hi> will beget <hi>Reverence,</hi> and promote <hi>Sincerity.</hi> It's no great mat<g ref="char:EOLhyphen"/>ter how men carry it before an Idol that has no eyes, but <hi>Reaſon,</hi> much more <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> will direct us to look to our ſelves, when we have ſuch an eye upon us, and will be uſeful to prevent that commonneſs of Heart and Carriage ſo unſuitable for his Preſence.</p>
+            <p>His <hi>Omniſcience</hi> will aſſure us that he will not be <hi>ſhamm'd</hi> nor impoſed upon, there's no <hi>mocking</hi> him with ſhadows or pretences; he is not to be treated after that manner. He will ſay to every Hypocrite<g ref="char:punc">▪</g> tho' under the greateſt diſguiſe, why feigneſt thou thy ſelf to be another perſon, I have heavy Tidings for thee; and a Curſe upon the <hi>Deceiver</hi> is heavy Tidings.</p>
+            <p>His <hi>Omnipotence</hi> will repreſent him as a perſon that has in a readineſs wherewith
+<pb n="37" facs="tcp:191928:22"/>
+to avenge all Affronts, and to aſſiſt all the Humble Souls that deſire to ſerve him bet<g ref="char:EOLhyphen"/>ter.</p>
+            <p>His <hi>Holineſs</hi> tells us that we muſt lift up <hi>holy hands</hi> and <hi>hearts</hi> before him, and purge our ſelves in order to our being <hi>Veſſels fit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for our Maſters uſe.</hi>
+            </p>
+            <p>His <hi>Juſtice</hi> will caution us from taking his <hi>Name in vain,</hi> becauſe he will not <hi>hol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us Guiltleſs;</hi> and when we take up his Worſhip without ſpirit, heart, life, care, labour, ſeriouſneſs, we take his <hi>Name in vain.</hi>
+            </p>
+            <p>His <hi>Bounty</hi> and <hi>Goodneſs</hi> will quicken us to ſerve him with <hi>Enlargedneſs</hi> of Heart, who hath ſuch a <hi>liberal</hi> hand to <hi>reward</hi> all his Servants.</p>
+            <p>His <hi>Truth</hi> and <hi>Faithfulneſs</hi> as they will put us beyond diſpute about the certainty of the <hi>Reward,</hi> if we ſerve him <hi>well,</hi> ſo of the <hi>Puniſhment,</hi> if <hi>trifling</hi> and <hi>ſlightly</hi> therein.</p>
+            <p>Thus right Conceptions of God will no<g ref="char:EOLhyphen"/>tably influence you into right Worſhip, &amp; a due performance of it.</p>
+            <p>3. Study well the <hi>right</hi> way in which God will be Worſhipped, and his <hi>own</hi> way is the only <hi>right</hi> way. He hath plainly told us in his Word, <hi>how</hi> he will be Worſhip<g ref="char:EOLhyphen"/>ped; if we bring him any other Worſhip than that of his own preſcribing, he will call it <hi>lying</hi> and <hi>deceit.</hi> Beware therefore
+<pb n="38" facs="tcp:191928:23"/>
+that none ſpoil you through vain <hi>deceit</hi> af<g ref="char:EOLhyphen"/>ter the <hi>Traditions</hi> of <hi>men,</hi> Col. 2. 8. A very good caution, for <hi>Traditions of men</hi> in the Worſhip of God, will ſpoil our Worſhip, and ſpoil us alſo, aand are <hi>rightly</hi> called <hi>deceitful</hi> and <hi>vain,</hi> becauſe they take us off from the only true, acceptable and profi<g ref="char:EOLhyphen"/>table Service of God. Reſolve upon it, either Bible-Worſhip or none at all, all other being <hi>as,</hi> yea <hi>worſe than</hi> none. It's <hi>lying</hi> worſhip if not warranted by God's Word, whatever <hi>pretences</hi> it may make to <hi>Decency</hi> in it ſelf, or <hi>Authority</hi> from men, Traditions from our Fore-fathers, or the Commands of the Church, God will ſay of it, <hi>Bring no more vain oblations, &amp; who has re<g ref="char:EOLhyphen"/>quired theſe things at your hands?</hi> Nor will God take it as an anſwer if we ſay that <hi>Eccleſiaſtical Authority</hi> enjoyned it, unleſs it agree with the <hi>Pattern</hi> in the <hi>Mount,</hi> and be preſcribed by the <hi>Lord of the Houſe.</hi>
+            </p>
+            <p>4. Let us offer up all our worſhip by Chriſt, God in Chriſt is the object of Divine Worſhip. To goe to God in our Prayers or other Services, immediately, to God out of or without Chriſt is to <hi>lye</hi> in our <hi>ſervices.</hi> That General Rule of <hi>Doing all in the Name of the Lord Jeſus Col.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 17. holds moſt ſtrictly in point of worſhip. All our prayers are to be <hi>made in his Name, Job.</hi> 14. 41. And all our praiſ<g ref="char:EOLhyphen"/>es are to <hi>be Offered up by him, Heb.</hi> 13. 15.
+<pb n="39" facs="tcp:191928:23"/>
+Otherwiſe what-ever of <hi>Labour, Care, Zeal, Coſt,</hi> may be put into our <hi>Obla<g ref="char:EOLhyphen"/>tions,</hi> if there be nothing of <hi>Chriſt</hi> in them they ſignify nothing at all with God; they are Lame, Blind, Lean and Dead Sacrifi<g ref="char:EOLhyphen"/>ces, and will be moſt diſpleaſing in Gods moſt Pure Eies, and the ſavour of them very offenſive to his Noſtrils if not perfum<g ref="char:EOLhyphen"/>ed with the Incenſe of his Merits which he is Offering up <hi>with the prayers of the Saints.</hi>
+            </p>
+            <p>5. See that our Hearts be in the wor<g ref="char:EOLhyphen"/>ſhip, fervently and frequently make that neceſſary Prayer, Pſ. 119. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. <hi>Let my Heart be ſound in thy Statutes,</hi> eſpecially ſound in <hi>thy</hi> Statutes and <hi>my</hi> performances about <hi>Wor<g ref="char:EOLhyphen"/>ſhip,</hi> becauſe God is eminently Jealous there. Daily make <hi>Davids</hi> prayer, <hi>That God will re<g ref="char:EOLhyphen"/>move from us the way of lying, Pſal.</hi> 119. 29. And that particularly when we draw near unto God in worſhip, that we may do it with a <hi>true Heart, Heb.</hi> 10. 22. Ingage the Heart to go along with our Bodies and Tongues, when addreſſing the Heart<g ref="char:EOLhyphen"/>ſearching God, yea &amp; do not only carry our Hearts thither, but by an extraordinary care and watchfulneſs keep them there, that they may not give you the ſlip, and ſo render all your worſhip <hi>ſucceſsleſs,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>heart<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs.</hi> Then only do you wor<g ref="char:EOLhyphen"/>ſhip God in Spirit and Truth when your Hearts are ſincerely active in what you
+<pb n="40" facs="tcp:191928:24"/>
+do. Dare not <hi>offer</hi> unto God that which coſt you nothing but a little Breath and Lip-labour, remember that your Heart gives value to your two Mites, the leaſt piece of Hearty Service is in high eſteem with God.</p>
+            <p>6. Finally <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et our conſtant Walk be al<g ref="char:EOLhyphen"/>ways conſonant to our Worſhip, our De<g ref="char:EOLhyphen"/>portment agreeable to our Devotions, our whole Converſations ſuch as become ſuch Worſhippers. A looſe Converſation gives the <hi>lye</hi> to a ſpecious profeſſion. If what be ſaid in words is contradicted in works, God will call it <hi>lying</hi> and <hi>deceit, Tit.</hi> 1. 16. To be zealous and warm in our <hi>Wor<g ref="char:EOLhyphen"/>ſhip</hi> but luke warm and carnal in our <hi>Walk</hi> is moſt abſurd and Contradictory. Let us <hi>Live</hi> our <hi>Hearing, Praying, Sabbaths, Sacraments,</hi> &amp;c. and then we worſhip well, And if we do indeed worſhip well, our <hi>worſhip</hi> to God will obſervably Influence, all our <hi>converſe</hi> with men. And Oh how amiable and pleaſant is an Harmonious A<g ref="char:EOLhyphen"/>greement there! And how unſeemly the contrary! That men walk no better be<g ref="char:EOLhyphen"/>fore and after worſhip, is an ill ſign of their being <hi>inſincere and falſe and deceitful in it.</hi>
+            </p>
+            <p>To Conclude,</p>
+            <p>Thus you have heard <hi>one</hi> more very common and provoking ſin declaimed a<g ref="char:EOLhyphen"/>gainſt. And note that when the Lord gave the Prophet <hi>Iſa. 58. 1. &amp;c.</hi> his
+<pb n="41" facs="tcp:191928:24"/>
+Commiſſion To <hi>ſhew unto his people their Tranſ<g ref="char:EOLhyphen"/>greſſions, And to the houſe of Jacob their ſins,</hi> this was the firſt ſin that he directed him to lift up his voice and ſound his Trumpet againſt. There was much Worſhip, but little Holineſs, many Sacrifices but no Righ<g ref="char:EOLhyphen"/>teouſneſs, frequent <hi>Approaches</hi> to God, but little <hi>Walking</hi> with him. And it's e<g ref="char:EOLhyphen"/>vident that their deſign in theſe external performances was to conceal or get allow<g ref="char:EOLhyphen"/>ance for their wickedneſs, as appears by quarrelling God that he took no more no<g ref="char:EOLhyphen"/>tice of their <hi>Faſtings,</hi> nor gave them expect<g ref="char:EOLhyphen"/>ed Anſwers to their <hi>Prayers,</hi> though the Lord ſufficiently ſtopt their mouth, by let<g ref="char:EOLhyphen"/>ting them know, that while they lived in ſuch palpable neglect of the <hi>Second-Table-Duties,</hi> their pretended compliance with the <hi>Firſt,</hi> could very little avail them. Of the like import is <hi>Pſal.</hi> 50. and <hi>Iſa.</hi> 1. in the latter of which he plainly tells them, <hi>That the multitude of their Sacrifices</hi> was to <hi>no purpoſe,</hi> they did but <hi>trouble</hi> him, and not <hi>profit</hi> themſelves: &amp; God bids them <hi>give over, verſe</hi> 13. Not that he did abate them theſe <hi>Sacrifices,</hi> or will abate us our <hi>Devo<g ref="char:EOLhyphen"/>tion;</hi> no, but <hi>bring no more vain Oblations;</hi> ſo does God ſay to us, <hi>bring no more lying Services,</hi> make no more <hi>deceitful Prayers;</hi> let me have no more of theſe <hi>formal, Hypo<g ref="char:EOLhyphen"/>critic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> Aſſemblings Upon the penalty of lo<g ref="char:EOLhyphen"/>ſing all our Prayers, (&amp; we had better loſe
+<pb n="42" facs="tcp:191928:25"/>
+all the Comforts we have in the World, than loſe our Prayers) Upon the penalty of having them turned into ſin, (a dreadful <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on upon <hi>Judas</hi> that monſtrous <hi>Hy<g ref="char:EOLhyphen"/>pocri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> as appears by comparing <hi>Pſal</hi> 109. 7. with <hi>Act.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 20. and that which every ſuch diſſembling <hi>Worſhipper</hi> may be afraid of.) Upon the penalty of loſing all graci<g ref="char:EOLhyphen"/>ous converſe with God, of blocking up the way to prevent any good coming at thee for ever, of having the <hi>Lord to kindle a fire in his Jealouſie that ſhall burn to the loweſt H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> of his <hi>rending thee in pieces, &amp; there be none to deliver thee,</hi> I ſay upon all theſe pe<g ref="char:EOLhyphen"/>nalties, (and they are terrible ones) leave off, preſently and utterly leave off All <hi>ly<g ref="char:EOLhyphen"/>ing &amp; diſſembling</hi> with God in his Worſhip.</p>
+            <p>Do not caſt off worſhip becauſe it is ſo dangerous to intermeddle with, but engage in it <hi>ſincerely; heartily, with Reverence &amp; godly fear,</hi> ſhun the <hi>lying</hi> &amp; <hi>deceit</hi> that too often <hi>does</hi> attend it, comply with the ſincerity &amp; pain<g ref="char:EOLhyphen"/>fulneſs, care &amp; conſcience that always <hi>ſhould</hi> attend it. <hi>Sincerity</hi> will God approve of and countenance; <hi>Infirmity,</hi> eſpecially when be<g ref="char:EOLhyphen"/>moaned &amp; reſiſted, he will forgive &amp; over<g ref="char:EOLhyphen"/>look, &amp; all the expence we are at in <hi>Worſhip<g ref="char:EOLhyphen"/>ping God in ſpirit &amp; truth,</hi> will be plentifully compenſated by fulfilling that promiſe, <hi>Exo.</hi> 20. 23. In all places where <hi>I record my name I will come unto thee, and I will Bleſs thee.</hi>
+            </p>
+            <trailer>FINIS<g ref="char:punc">▪</g>
+            </trailer>
+            <pb facs="tcp:191928:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
